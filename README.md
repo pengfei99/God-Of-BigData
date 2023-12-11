@@ -1,34 +1,40 @@
 
-<div align="center">  
-<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
-</br>
-
-**日更原创大数据领域文章&大数据行业最新动态** </br>
-
-**打造价值40万Offer朋友圈,数据人的宝藏朋友圈** </br>
-
-关注[公众号](#扫我关注公众号)~
-加我[好友](#扫我关注公众号)~
+<br/>
+<div align="center">
+    <a href="https://mp.weixin.qq.com/s/0N4XSMFPuD7U_paGsBsblw" style="text-decoration:none"><img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width="256px"></a>
 </div>
+<br/>
 
-## 大数据成神之路目录
 
+- 🔥 关注[**❤️公众号**](https://mmbiz.qpic.cn/mmbiz_png/UdK9ByfMT2P8ylc0r5wg2SEHk9LxuL6xRMiczG82lZNwzVmm6otcpd26yZIDqOvbTIeNb2FdYZYatHvsoH6TbVg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+- 🔥 加我 [**👬好友**](https://mmbiz.qpic.cn/mmbiz_png/UdK9ByfMT2NLwWPfib27wK2aK6iaCicBu4VseYibyGQdiagT6zcMSTXbITlV5Wl3lq8T3icMt4ibtjGat0j4dqSnqf43A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+- 🔥 关注 [**📺B站**](https://space.bilibili.com/22021870)
+
+
+## 🚜 **大数据成神之路目录**
+
+### ⛳ 上车前必读
+
+- [❤️❤️全网最全大数据面试通关手册!❤️❤️](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
 - 图片打不开，点[这里](https://blog.csdn.net/u013411339/article/details/113097759)
+- 👉 如果你不知道自己要从哪开始、要学什么，请看：[**《八千里路云和月|从零到大数据专家学习路径指南》**](https://mp.weixin.qq.com/s/MAwD-UJgvIa_dZjmaykqrQ)
+这是一个大数据专家/架构师提升自身技术栈广度和深度的经验之路，也是我的亲身学习经历汇总！
+- 👉 如果你对某一个框架的学习路径有疑惑🤔，请看下面：
+    - [我们在学习Flink的时候，到底在学习什么?](https://mp.weixin.qq.com/s/xh4SEX9t-fRVdoiAl0KKSQ)
+    - [我们在学习Spark的时候，到底在学习什么？](https://mp.weixin.qq.com/s/pN0AqNJuFnlLjNW2OonGtA)
+    - [我们在学习Kafka的时候，到底在学习什么？](https://mp.weixin.qq.com/s/AurKLpHB0XWgbBat-M7Urw)
 
- * [八千里路云和月|从零到大数据专家学习路径指南](https://mp.weixin.qq.com/s/MAwD-UJgvIa_dZjmaykqrQ)
- * [我们在学习Flink的时候，到底在学习什么?](https://mp.weixin.qq.com/s/xh4SEX9t-fRVdoiAl0KKSQ)
- * [我们在学习Spark的时候，到底在学习什么？](https://mp.weixin.qq.com/s/pN0AqNJuFnlLjNW2OonGtA)
+------------
 
-
-
-### 大数据开发基础篇
+### ⛳ 大数据开发基础篇
 | :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
 | :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------:|
 | [Java基础](#一Java基础) | [NIO](#二NIO基础) | [并发容器](#三Java并发容器) |[JVM](#四JVM深度解析和面试点) |[分布式](#五分布式理论基础和原理) |[zookeeper](#六大数据框架开发基础-zookeeper)|[RPC](#七大数据框架开发基础-RPC)|[Netty](#八大数据框架基石之网路通信-Netty)|[Linux](/Linux基础/Linux基础和命令.md)|
 
-<br/>
-
-### 大数据框架学习篇
+------------
+### ⛳ 大数据框架学习篇
 
 <table>
     <tr>
@@ -52,8 +58,8 @@
   </table>
 <br/>
 
-
-### 大数据开发实战进阶篇
+----------------
+### ⛳ 大数据开发实战进阶篇
 
 这里的文章主要是我平时发表在公众号，博客等的文章，精心挑选，以飨读者。
 
@@ -73,7 +79,8 @@
   </table>
 <br/>
 
-### 大数据开发面试篇
+------------------------------------
+### ⛳ 大数据开发面试篇
 
 <table>
     <tr>
@@ -87,7 +94,8 @@
   </table>
 <br/> 
 
-### 公众号2021年大数据精品文章合集
+------------------------------------
+### ⛳ 个人公众号:octocat: 大数据精品文章合集
 
 <table>
     <tr>
@@ -103,20 +111,46 @@
   </table>
 <br/> 
 
-## 第一部分: 大数据开发基础篇
+------------------------------------
+### ⛳ 高屋建瓴总结篇
+
+- [Hadoop系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+- [Hive系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+- [Spark系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+- [Flink系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+- [Hbase系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+- [Kafka系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+
+---------------------------------------
+
+## `第一部分: 大数据开发基础篇`
 
 ### 一、Java基础
- * [大数据成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
- * [大数据成神之路-Java高级特性增强(Synchronized关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(Synchronized%E5%85%B3%E9%94%AE%E5%AD%97).md)
- * [大数据成神之路-Java高级特性增强(volatile关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(volatile%E5%85%B3%E9%94%AE%E5%AD%97).md)
- * [大数据成神之路-Java高级特性增强(锁)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E9%94%81).md)
- * [大数据成神之路-Java高级特性增强(ArrayList/Vector)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6).md)
- * [大数据成神之路-Java高级特性增强(LinkedList)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA.md)
- * [大数据成神之路-Java高级特性增强(HashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashMap).md)
- * [大数据成神之路-Java高级特性增强(HashSet)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashSet).md)
- * [大数据成神之路-Java高级特性增强(LinkedHashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedHashMap).md)
+
+##### 📚 1.1 Java系统性学习
+
+- [《Java基础系统性学习专栏》](https://blog.csdn.net/u013411339/category_11681255.html)
+
+##### 分类导航
+
+* [大数据成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
+* [大数据成神之路-Java高级特性增强(Synchronized关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(Synchronized%E5%85%B3%E9%94%AE%E5%AD%97).md)
+* [大数据成神之路-Java高级特性增强(volatile关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(volatile%E5%85%B3%E9%94%AE%E5%AD%97).md)
+* [大数据成神之路-Java高级特性增强(锁)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E9%94%81).md)
+* [大数据成神之路-Java高级特性增强(ArrayList/Vector)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6).md)
+* [大数据成神之路-Java高级特性增强(LinkedList)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA.md)
+* [大数据成神之路-Java高级特性增强(HashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashMap).md)
+* [大数据成神之路-Java高级特性增强(HashSet)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashSet).md)
+* [大数据成神之路-Java高级特性增强(LinkedHashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedHashMap).md)
 
 ### 二、NIO基础
+
+##### 📚 2.1 Netty系统系学习
+
+- [《Netty系统系学习专栏》](https://blog.csdn.net/u013411339/category_11681261.html)
+
+##### 📚 2.2 分类导航
+
  * [大数据成神之路-Java高级特性增强-NIO大纲](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA-NIO.md)
  * [NIO概览](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/NIO%E6%A6%82%E8%A7%88.md)
  * [Java NIO之Buffer(缓冲区)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/Java%20NIO%E4%B9%8BBuffer(%E7%BC%93%E5%86%B2%E5%8C%BA).md)
@@ -125,6 +159,13 @@
  * [Java NIO之拥抱Path和Files](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/Java%20NIO%E4%B9%8B%E6%8B%A5%E6%8A%B1Path%E5%92%8CFiles.md)
 
 ### 三、Java并发容器
+
+##### 📚 3.1 系统性学习
+
+- [《多线程&并发容器学习专栏》](https://blog.csdn.net/u013411339/category_11681268.html)
+
+##### 3.2 分类导航
+
  * [大数据成神之路-Java高级特性增强(并发容器大纲)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8%E5%A4%A7%E7%BA%B2).md)
  * [大数据成神之路-Java高级特性增强(LinkedBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedBlockingQueue).md)
  * [大数据成神之路-Java高级特性增强(LinkedBlockingDeque)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedBlockingDeque).md)
@@ -137,69 +178,88 @@
  * [大数据成神之路-Java高级特性增强(ArrayBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ArrayBlockingQueue).md)
 
 ### 四、JVM深度解析和面试点
-   ##### 先来10篇基础热身
-   * [JVM内存结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.md)
-   * [HotSpot虚拟机对象探秘](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/HotSpot%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AF%B9%E8%B1%A1%E6%8E%A2%E7%A7%98.md)
-   * [垃圾收集策略与算法](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E7%AD%96%E7%95%A5%E4%B8%8E%E7%AE%97%E6%B3%95.md)
-   * [HotSpot垃圾收集器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/HotSpot%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8.md)
-   * [内存分配与回收策略](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E4%B8%8E%E5%9B%9E%E6%94%B6%E7%AD%96%E7%95%A5.md)
-   * [JVM性能调优](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/JVM%20%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
-   * [类文件结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
-   * [类加载的时机](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E7%9A%84%E6%97%B6%E6%9C%BA.md)
-   * [类加载的过程](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E7%9A%84%E8%BF%87%E7%A8%8B.md)
-   * [类加载器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8.md)
-   ##### 再来5篇详细解说
-   * [java类的加载机制](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%B8%80)java%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
-   * [JVM内存结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%8C)JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.md)
-   * [GC算法 垃圾收集器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%B8%89)GC%E7%AE%97%E6%B3%95%20%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8.md)
-   * [jvm调优-命令大全](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E5%9B%9B)jvm%E8%B0%83%E4%BC%98-%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8%EF%BC%88jps%20jstat%20jmap%20jhat%20jstack%20jinfo%EF%BC%89.md)
-   * [Java GC 分析](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.md)
+
+##### 📚 4.1 系统性学习
+
+- [《JVM学习专栏》](https://blog.csdn.net/u013411339/category_11681275.html)
+
+##### 4.2 分类导航
+
+* [JVM内存结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.md)
+* [HotSpot虚拟机对象探秘](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/HotSpot%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AF%B9%E8%B1%A1%E6%8E%A2%E7%A7%98.md)
+* [垃圾收集策略与算法](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E7%AD%96%E7%95%A5%E4%B8%8E%E7%AE%97%E6%B3%95.md)
+* [HotSpot垃圾收集器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/HotSpot%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8.md)
+* [内存分配与回收策略](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E4%B8%8E%E5%9B%9E%E6%94%B6%E7%AD%96%E7%95%A5.md)
+* [JVM性能调优](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/JVM%20%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
+* [类文件结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
+* [类加载的时机](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E7%9A%84%E6%97%B6%E6%9C%BA.md)
+* [类加载的过程](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E7%9A%84%E8%BF%87%E7%A8%8B.md)
+* [类加载器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8.md)
+
+##### 4.3 JVM 详解
+
+* [java类的加载机制](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%B8%80)java%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
+* [JVM内存结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%8C)JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.md)
+* [GC算法 垃圾收集器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%B8%89)GC%E7%AE%97%E6%B3%95%20%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8.md)
+* [jvm调优-命令大全](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E5%9B%9B)jvm%E8%B0%83%E4%BC%98-%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8%EF%BC%88jps%20jstat%20jmap%20jhat%20jstack%20jinfo%EF%BC%89.md)
+* [Java GC 分析](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.md)
 
 ### 五、分布式理论基础和原理
-   * [分布式系统的一些基本概念](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
-   * [分布式系统理论基础一： 一致性、2PC和3PC](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%B8%80%EF%BC%9A%20%E4%B8%80%E8%87%B4%E6%80%A7%E3%80%812PC%E5%92%8C3PC.md)
-   * [分布式系统理论基础二-CAP](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%BA%8C-CAP.md)
-   * [分布式系统理论基础三-时间、时钟和事件顺序](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%B8%89-%E6%97%B6%E9%97%B4%E3%80%81%E6%97%B6%E9%92%9F%E5%92%8C%E4%BA%8B%E4%BB%B6%E9%A1%BA%E5%BA%8F.md)
-   * [分布式系统理论进阶 - Paxos](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%20-%20Paxos.md)
-   * [分布式系统理论进阶 - Raft、Zab](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%20-%20Raft%E3%80%81Zab.md)
-   * [分布式系统理论进阶：选举、多数派和租约](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%EF%BC%9A%E9%80%89%E4%B8%BE%E3%80%81%E5%A4%9A%E6%95%B0%E6%B4%BE%E5%92%8C%E7%A7%9F%E7%BA%A6.md)
-   * [分布式锁的解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
-   * [分布式锁的解决方案(二)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88(%E4%BA%8C).md)
-   * [分布式事务的解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
-   * [分布式ID生成器解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8FID%E7%94%9F%E6%88%90%E5%99%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+
+* [分布式系统的一些基本概念](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+* [分布式系统理论基础一： 一致性、2PC和3PC](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%B8%80%EF%BC%9A%20%E4%B8%80%E8%87%B4%E6%80%A7%E3%80%812PC%E5%92%8C3PC.md)
+* [分布式系统理论基础二-CAP](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%BA%8C-CAP.md)
+* [分布式系统理论基础三-时间、时钟和事件顺序](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%B8%89-%E6%97%B6%E9%97%B4%E3%80%81%E6%97%B6%E9%92%9F%E5%92%8C%E4%BA%8B%E4%BB%B6%E9%A1%BA%E5%BA%8F.md)
+* [分布式系统理论进阶 - Paxos](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%20-%20Paxos.md)
+* [分布式系统理论进阶 - Raft、Zab](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%20-%20Raft%E3%80%81Zab.md)
+* [分布式系统理论进阶：选举、多数派和租约](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%EF%BC%9A%E9%80%89%E4%B8%BE%E3%80%81%E5%A4%9A%E6%95%B0%E6%B4%BE%E5%92%8C%E7%A7%9F%E7%BA%A6.md)
+* [分布式锁的解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+* [分布式锁的解决方案(二)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88(%E4%BA%8C).md)
+* [分布式事务的解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+* [分布式ID生成器解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8FID%E7%94%9F%E6%88%90%E5%99%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
 ### 六、大数据框架开发基础-Zookeeper
 
-   * [安装和运行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E5%AE%89%E8%A3%85%E5%92%8C%E8%BF%90%E8%A1%8C.md)
-   * [zookeeper服务](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E6%9C%8D%E5%8A%A1.md)
-   * [zookeeper应用程序](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/ZooKeeper%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.md)
-   * [zookeeper开发实例](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B.md)
-   * [zookeeper集群构建](http://www.importnew.com/23237.html)
+* [安装和运行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E5%AE%89%E8%A3%85%E5%92%8C%E8%BF%90%E8%A1%8C.md)
+* [zookeeper服务](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E6%9C%8D%E5%8A%A1.md)
+* [zookeeper应用程序](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/ZooKeeper%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.md)
+* [zookeeper开发实例](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B.md)
+* [zookeeper集群构建](http://www.importnew.com/23237.html)
 
 ### 七、大数据框架开发基础-RPC
 
-   * [RPC简单介绍](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/RPC%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D.md)
-   * [RPC的原理和框架](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/RPC%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%A1%86%E6%9E%B6.md)
-   * [手把手教你实现一个简单的RPC](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84RPC.md)
+* [RPC简单介绍](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/RPC%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D.md)
+* [RPC的原理和框架](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/RPC%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%A1%86%E6%9E%B6.md)
+* [手把手教你实现一个简单的RPC](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84RPC.md)
 
 ### 八、大数据框架基石之网路通信-Netty
-   * [关于Netty我们都需要知道什么](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/%E5%85%B3%E4%BA%8ENetty%E6%88%91%E4%BB%AC%E9%83%BD%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88.md)
-   * [Netty源码解析-概述篇](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E6%A6%82%E8%BF%B0%E7%AF%87.md)
-   * [Netty源码解析1-Buffer](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%901-Buffer.md) 
-   * [Netty源码解析2-Reactor](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%902-Reactor.md)
-   * [Netty源码解析3-Pipeline](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%903-Pipeline.md)
-   * [Netty源码解析4-Handler综述](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%904-Handler%E7%BB%BC%E8%BF%B0.md)
-   * [Netty源码解析5-ChannelHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%905-ChannelHandler.md)
-   * [Netty源码解析6-ChannelHandler实例之LoggingHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%906-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BLoggingHandler.md)
-   * [Netty源码解析7-ChannelHandler实例之TimeoutHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%907-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BTimeoutHandler.md)
-   * [Netty源码解析8-ChannelHandler实例之CodecHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%908-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BCodecHandler.md)
-   * [Netty源码解析9-ChannelHandler实例之MessageToByteEncoder](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%909-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BMessageToByteEncoder.md)
+
+* [关于Netty我们都需要知道什么](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/%E5%85%B3%E4%BA%8ENetty%E6%88%91%E4%BB%AC%E9%83%BD%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88.md)
+* [Netty源码解析-概述篇](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E6%A6%82%E8%BF%B0%E7%AF%87.md)
+* [Netty源码解析1-Buffer](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%901-Buffer.md) 
+* [Netty源码解析2-Reactor](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%902-Reactor.md)
+* [Netty源码解析3-Pipeline](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%903-Pipeline.md)
+* [Netty源码解析4-Handler综述](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%904-Handler%E7%BB%BC%E8%BF%B0.md)
+* [Netty源码解析5-ChannelHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%905-ChannelHandler.md)
+* [Netty源码解析6-ChannelHandler实例之LoggingHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%906-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BLoggingHandler.md)
+* [Netty源码解析7-ChannelHandler实例之TimeoutHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%907-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BTimeoutHandler.md)
+* [Netty源码解析8-ChannelHandler实例之CodecHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%908-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BCodecHandler.md)
+* [Netty源码解析9-ChannelHandler实例之MessageToByteEncoder](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%909-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BMessageToByteEncoder.md)
 
 
 ## 第二部分:大数据框架学习篇
 
-
 ### 一、Hadoop
+
+##### 📚 1.1 Hadoop系统性总结
+
+- [Hadoop系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+
+##### 📚 1.2 系统性学习
+
+[Hadoop学习专栏](https://blog.csdn.net/u013411339/category_11681229.html)
+
+##### 1.3 分类导航
 
 1. [分布式文件存储系统 —— HDFS](大数据框架学习/Hadoop-HDFS.md)
 2. [分布式计算框架 —— MapReduce](大数据框架学习/Hadoop-MapReduce.md)
@@ -214,6 +274,16 @@
 
 ### 二、Hive
 
+##### 📚 2.1 Hive系统性总结
+
+[Hive系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+
+##### 📚 2.2 系统性学习
+
+[Hive学习专栏](https://blog.csdn.net/u013411339/category_11681281.html)
+
+##### 📚 2.3 分类导航
+
 1. [Hive 简介及核心概念](大数据框架学习/Hive简介及核心概念.md)
 2. [Linux 环境下 Hive 的安装部署](大数据框架学习/installation/Linux环境下Hive的安装部署.md)
 4. [Hive CLI 和 Beeline 命令行的基本使用](大数据框架学习/HiveCLI和Beeline命令行的基本使用.md)
@@ -224,6 +294,14 @@
 10. [Hive 数据查询详解](大数据框架学习/Hive数据查询详解.md)
 
 ### 三、Spark
+
+##### 📚 3.1 Spark系统性总结
+
+- [Spark系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+
+####  📚 3.2 系统性学习
+
+- [Spark学习专栏](https://blog.csdn.net/u013411339/category_11681283.html)
 
 **Spark Core :**
 
@@ -253,6 +331,16 @@
 
 ## 四、Flink
 
+##### 📚 4.1 Flink系统性总结
+
+- [Flink系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+
+#### 📚 4.2 系统性学习
+
+- [Flink系统学习专栏](https://blog.csdn.net/u013411339/category_11681289.html)
+
+#### 📚 2.3 分类导航
+
 1. [Flink 核心概念综述](大数据框架学习/Flink核心概念综述.md)
 2. [Flink 开发环境搭建](大数据框架学习/Flink开发环境搭建.md)
 3. [Flink Data Source](大数据框架学习/Flink_Data_Source.md)
@@ -263,33 +351,42 @@
 8. [Flink Standalone 集群部署](大数据框架学习/installation/Flink_Standalone_Cluster.md)
 
 #### Flink当前最火的实时计算引擎-入门篇
-   * [Flink从入门到放弃(入门篇1)-Flink是什么](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%871)-Flink%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
-   * [Flink从入门到放弃(入门篇2)-本地环境搭建&构建第一个Flink应用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%872)-%E6%9C%AC%E5%9C%B0%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%26%E6%9E%84%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AAFlink%E5%BA%94%E7%94%A8.md)
-   * [Flink从入门到放弃(入门篇3)-DataSetAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%873)-DataSetAPI.md)
-   * [Flink从入门到放弃(入门篇4)-DataStreamAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%874)-DataStreamAPI.md)
-   * [Flink集群部署](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2.md)
-   * [Flink重启策略](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/6-Flink%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5.md)
-   * [Flink的分布式缓存](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/7-Flink%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98.md)
-   * [Flink中的窗口](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/8-Flink%E4%B8%AD%E7%9A%84%E7%AA%97%E5%8F%A3.md)
-   * [Flink中的Time](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/9-Flink%E4%B8%AD%E7%9A%84Time.md)
-   * [Flink集群搭建的HA](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/10-Flink%E9%9B%86%E7%BE%A4%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8(%E6%90%AD%E5%BB%BA%E7%AF%87%E8%A1%A5%E5%85%85).md)
-   * [Flink中的时间戳和水印](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/11-%E6%97%B6%E9%97%B4%E6%88%B3%E5%92%8C%E6%B0%B4%E5%8D%B0.md)
-   * [Flink广播变量](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/12-Broadcast%E5%B9%BF%E6%92%AD%E5%8F%98%E9%87%8F.md)
-   * [Flink-Kafka-Connector](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/13-Flink-Kafka-Connector.md)
-   * [Flink-Table-&-SQL实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/14-Flink-Table-%26-SQL.md)
-   * [15-Flink实战项目之实时热销排行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/15-Flink%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E4%B9%8B%E5%AE%9E%E6%97%B6%E7%83%AD%E9%94%80%E6%8E%92%E8%A1%8C.md)
-   * [16-Flink-Redis-Sink](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/16-Flink-Redis-Sink.md)
-   * [17-Flink消费Kafka写入Mysql](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/17-Flink%E6%B6%88%E8%B4%B9Kafka%E5%86%99%E5%85%A5Mysql.md)
+
+* [Flink从入门到放弃(入门篇1)-Flink是什么](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%871)-Flink%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
+* [Flink从入门到放弃(入门篇2)-本地环境搭建&构建第一个Flink应用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%872)-%E6%9C%AC%E5%9C%B0%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%26%E6%9E%84%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AAFlink%E5%BA%94%E7%94%A8.md)
+* [Flink从入门到放弃(入门篇3)-DataSetAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%873)-DataSetAPI.md)
+* [Flink从入门到放弃(入门篇4)-DataStreamAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%874)-DataStreamAPI.md)
+* [Flink集群部署](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2.md)
+* [Flink重启策略](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/6-Flink%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5.md)
+* [Flink的分布式缓存](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/7-Flink%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98.md)
+* [Flink中的窗口](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/8-Flink%E4%B8%AD%E7%9A%84%E7%AA%97%E5%8F%A3.md)
+* [Flink中的Time](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/9-Flink%E4%B8%AD%E7%9A%84Time.md)
+* [Flink集群搭建的HA](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/10-Flink%E9%9B%86%E7%BE%A4%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8(%E6%90%AD%E5%BB%BA%E7%AF%87%E8%A1%A5%E5%85%85).md)
+* [Flink中的时间戳和水印](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/11-%E6%97%B6%E9%97%B4%E6%88%B3%E5%92%8C%E6%B0%B4%E5%8D%B0.md)
+* [Flink广播变量](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/12-Broadcast%E5%B9%BF%E6%92%AD%E5%8F%98%E9%87%8F.md)
+* [Flink-Kafka-Connector](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/13-Flink-Kafka-Connector.md)
+* [Flink-Table-&-SQL实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/14-Flink-Table-%26-SQL.md)
+* [15-Flink实战项目之实时热销排行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/15-Flink%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E4%B9%8B%E5%AE%9E%E6%97%B6%E7%83%AD%E9%94%80%E6%8E%92%E8%A1%8C.md)
+* [16-Flink-Redis-Sink](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/16-Flink-Redis-Sink.md)
+* [17-Flink消费Kafka写入Mysql](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/17-Flink%E6%B6%88%E8%B4%B9Kafka%E5%86%99%E5%85%A5Mysql.md)
 
 #### Flink当前最火的实时计算引擎-放弃篇
 
-   * [Flink漫谈系列1-概述](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(1)-%E6%A6%82%E8%BF%B0.md)
-   * [Flink漫谈系列2-watermark](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(02)-Watermark.md)
-   * [Flink漫谈系列3-state](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(03)-State.md)
-
-  
+* [Flink漫谈系列1-概述](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(1)-%E6%A6%82%E8%BF%B0.md)
+* [Flink漫谈系列2-watermark](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(02)-Watermark.md)
+* [Flink漫谈系列3-state](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(03)-State.md)
 
 ## 五、HBase
+
+##### 📚 5.1 Hbase系统性总结
+
+- [Hbase系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+
+##### 📚 5.2 系统性学习
+
+- [Hbase学习专栏](https://blog.csdn.net/u013411339/category_11681293.html)
+
+##### 📚 5.3 分类导航
 
 1. [Hbase 简介](大数据框架学习/Hbase简介.md)
 2. [HBase 系统架构及数据结构](大数据框架学习/Hbase系统架构及数据结构.md)
@@ -304,6 +401,14 @@
 11. [Spring/Spring Boot 整合 Mybatis + Phoenix](大数据框架学习/Spring+Mybtais+Phoenix整合.md)
 
 ## 六、Kafka
+
+##### 📚 6.1 Kafka系统性总结
+
+[Kafka系统性总结](https://t.zsxq.com/eIMrjmE)
+
+##### 📚 6.2 Kafka系统性学习
+
+- [Kafka系统性学习专栏](https://blog.csdn.net/u013411339/category_11681300.html)
 
 **Kafka基本原理 ：**
 
@@ -346,6 +451,11 @@
 #### Flink实战合集
 
 [点我查看Flink实战合集](实战系列文章/Flink实战.md)
+
+#### 系统性学习
+
+- [Flink系统学习专栏](https://blog.csdn.net/u013411339/category_11681289.html)
+- [Flink高级进阶和企业级应用](https://blog.csdn.net/u013411339/category_9285579.html)
 
 1. [菜鸟供应链实时技术架构演进](https://mp.weixin.qq.com/s/fnx2GnbCWNcaptVPsSp7dw)
 2. [趣头条实战-基于Flink+ClickHouse构建实时数据平台](https://mp.weixin.qq.com/s/s6YFOINMw9TKg-QVOkZT9A)
@@ -433,7 +543,9 @@
 
 [点我查看数据仓库实战合集](实战系列文章/数据仓库.md)
 
-### 五、OLAP实战文章系列
+### 五、OLAP实战文章系列OLAP
+
+* [ClickHouse专栏](https://blog.csdn.net/u013411339/category_11681457.html)
 
 ### 六、硬刚系列文章合集
 
@@ -848,14 +960,28 @@
 7. [Spark面试题总结（七）——程序开发调优](面试系列/Spark面试题整理/Spark调优/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98.md)  
 8. [Spark面试题总结（八）——运行资源调优](面试系列/Spark面试题整理/Spark调优/%E8%B5%84%E6%BA%90%E8%B0%83%E4%BC%98.md)  
 
-
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
 
+----------------------
 
 ## 声明
 
-文档中参考引用了大量网络上的博客和文章，大部分给出了出处，有些没写，如果造成了侵权行为，请您联系我，立即删除~
+文档中参考引用了网络上的博客和文章，大部分给出了出处，有些没写，如果造成了侵权行为，请您联系我，立即删除~
 
+## 转载分享
+
+建立本开源项目的初衷是基于个人学习与工作中对Java和大数据相关技术栈的总结记录，在这里也希望能帮助一些在学习Java和大数据过程中遇到问题的小伙伴，如果您需要转载本仓库的一些文章到自己的博客，请按照以下格式注明出处，谢谢合作。
+
+```
+作者：王知无
+链接：https://mp.weixin.qq.com/s/0N4XSMFPuD7U_paGsBsblw
+来源：《大数据技术与架构》
+```
+
+## 参与贡献
+
+1. 如果您对本项目有任何建议或发现文中内容有误的，欢迎提交 issues 进行指正。
+2. 对于文中我没有涉及到知识点，欢迎提交 PR。
 
 ## 扫我关注公众号
 
@@ -863,16 +989,9 @@
 
 <div align="center"> <img width="350px" src="qrcodes/wechat01.png"/> </div>
 
-**扫我加我好友,打造价值40万Offer朋友圈!**
+**扫我加我好友,打造高质量、高知识密度朋友圈!**
 
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpg"/> </div>
-
-
-## 如果对你有用，欢迎请我喝杯咖啡
-
-备注Gitub，感谢您～
-
-<div align="center"> <img width="350px" src="qrcodes/wechat02.jpeg"/> </div>
 
 ## 扫我加群
 
@@ -880,11 +999,11 @@
 
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpg"/> </div>
 
-## 为什么有这个文档
+## 如果对你有用，欢迎请我喝杯咖啡
 
-- 以前这里只是几个txt文档
-- 是我面试腾讯阿里美团等公司大数据开发工程师的过程中总结出来的大数据开发的必知必会的知识点~
-- 后续更新在微信公众号更新，欢迎关注~
+备注Github，感谢您～
+
+<div align="center"> <img width="350px" src="qrcodes/wechat02.jpeg"/> </div>
 
 ## 言而总之
 
